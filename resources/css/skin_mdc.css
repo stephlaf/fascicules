@@ -1,0 +1,7 @@
+/* Style for MDC page */
+.gradient-body {
+  background: linear-gradient(to right, blue, lightblue);
+}
+.gradient {
+  /* background: linear-gradient(to left, #000,#fff); */
+}
